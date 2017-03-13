@@ -2,6 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string></string>
+	</array>
+	<key>Item3</key>
+	<string>Quicksand-Italic.otf</string>
+	<key>Item2</key>
+	<string>Quicksand-Regular.otf</string>
+	<key>Item1</key>
+	<string>Quicksand-Bold.otf</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Weather App needs your location to give you a burn time estimate.</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
