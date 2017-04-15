@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  BoApps
+
+  Created by Macbook Air on 3/31/2560 BE.
+  Copyright © 2560 Botanyap. All rights reserved.
+*/
+
+REQ='<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><CurrentOilPrice xmlns="http://www.pttplc.com/ptt_webservice/"><Language>TH</Language></CurrentOilPrice></soap:Body></soap:Envelope>';
+
+REQ_CITY='<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><GetCitiesByCountry xmlns="http://www.webserviceX.NET"><CountryName>%@</CountryName></GetCitiesByCountry></soap:Body></soap:Envelope>';
